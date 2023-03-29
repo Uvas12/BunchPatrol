@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jack Phoenix"
+		]
+	},
+	"bunchpatrol": "Useiden muutosten tarkistus",
+	"bunchpatrol-all": "Kaikki",
+	"bunchpatrol-diff": "Ero",
+	"bunchpatrol-no-target": "Ei määriteltyä kohdetta.",
+	"bunchpatrol-no-unpatrolled-edits": "Käyttäjällä [[User:$1|$1]] ei ole tarkistamattomia muokkauksia.",
+	"bunchpatrol-no-self-patrol": "Pahoittelut, et voi merkitä omia muutoksiasi tarkistetuksi.",
+	"bunchpatrol-none": "Ei mitään",
+	"bunchpatrol-patrol": "Tarkista?",
+	"bunchpatrol-unpatrolled-limit": "Tarkistamattomia muokkauksia on alle 500 kappaletta ($1), joten useiden muutosten tarkistamistyökalu on pois käytöstä.",
+	"bunchpatrol-select": "Valitse:",
+	"bunchpatrol-submit-btn": "Lähetä"
+}

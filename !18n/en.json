@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"bunchpatrol": "Batch patrol",
+	"bunchpatrol-all": "All",
+	"bunchpatrol-bunch": "bunch",
+	"bunchpatrol-diff": "Diff",
+	"bunchpatrol-no-target": "No target specified.",
+	"bunchpatrol-no-unpatrolled-edits": "The user [[User:$1|$1]] has no unpatrolled edits.",
+	"bunchpatrol-no-self-patrol": "Sorry, you can't patrol your own edits.",
+	"bunchpatrol-none": "None",
+	"bunchpatrol-patrol": "Patrol?",
+	"bunchpatrol-unpatrolled-limit": "There are currently less than 500 ($1) unpatrolled edits, so Bunch Patrol is disabled.",
+	"bunchpatrol-select": "Select:",
+	"bunchpatrol-submit-btn": "Submit"
+}
