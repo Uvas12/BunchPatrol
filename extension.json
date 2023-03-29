@@ -1,0 +1,39 @@
+{
+	"name": "BunchPatrol",
+	"version": "1.1",
+	"author": "Travis Derouin",
+	"license-name": "GPL-2.0-or-later",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
+	"description": "Bunches many edits of a user together, so they can be patrolled all at once",
+	"type": "specialpage",
+	"MessagesDirs": {
+		"BunchPatrol": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+		"BunchPatrolAlias": "BunchPatrol.alias.php"
+	},
+	"AutoloadClasses": {
+		"BunchPatrol": "BunchPatrol.body.php",
+		"BunchPatrolHooks": "BunchPatrolHooks.php"
+	},
+	"SpecialPages": {
+		"BunchPatrol": "BunchPatrol"
+	},
+	"Hooks": {
+		"UserToolLinksEdit": "BunchPatrolHooks::onUserToolLinksEdit"
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteExtPath": "BunchPatrol"
+	},
+	"ResourceModules": {
+		"ext.bunchpatrol.scripts": {
+			"scripts": "bunchpatrol.js"
+		}
+	},
+	"manifest_version": 1
+}
