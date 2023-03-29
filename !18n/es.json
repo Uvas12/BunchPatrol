@@ -1,1 +1,17 @@
-
+{
+	"@metadata": {
+		"authors": []
+	},
+	"bunchpatrol": "Batch patrol",
+	"bunchpatrol-all": "Todas",
+	"bunchpatrol-bunch": "bunch",
+	"bunchpatrol-diff": "Diferencias",
+	"bunchpatrol-no-target": "No hay ningun objetivo especificado.",
+	"bunchpatrol-no-unpatrolled-edits": "The user [[User:$1|$1]] has no unpatrolled edits.",
+	"bunchpatrol-no-self-patrol": "Lo sentimos pero no puedes patrullar tus propias ediciones.",
+	"bunchpatrol-none": "Ninguna",
+	"bunchpatrol-patrol": "Patrol?",
+	"bunchpatrol-unpatrolled-limit": "Actualmente hay menos de 500 ediciones (lo cual es el limite minimo) en $1 por lo que se encuentra deshabilitado la patrulla de ediciones",
+	"bunchpatrol-select": "Seleccionar:",
+	"bunchpatrol-submit-btn": "Entregar"
+}
